@@ -1,4 +1,4 @@
-# Pequeña muestra de página web
+# Pruebas con html
 
 *(Sistemas distribuidos)*
 
